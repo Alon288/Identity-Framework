@@ -117,3 +117,6 @@ Make sure you have the following installed:
 - Integrated email confirmation / password reset (if you implemented them).
 - Additional claims or user data in user profile (if you added fields).
 
+### Author
+Developed by Syed Najeeb Ahmed (Github: Alon288) 👋
+
