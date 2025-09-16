@@ -50,7 +50,7 @@ This project was built following the [YouTube tutorial](https://www.youtube.com/
 
 Make sure you have the following installed:
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (version X.Y.Z or higher)  
+- [.NET SDK](https://dotnet.microsoft.com/download) (version 8.0.0 or higher)  
 - Visual Studio 2022 / Visual Studio Code (optional but recommended)  
 - SQL Server / LocalDB / SQLite (whatever you used)  
 - Git
