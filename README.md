@@ -18,9 +18,6 @@ This project was built following the [YouTube tutorial](https://www.youtube.com/
 - [Authentication & Authorization](#authentication--authorization)  
 - [Customizations Made](#customizations-made)  
 - [Known Issues / Limitations](#known-issues--limitations)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)
 
 ---
 
